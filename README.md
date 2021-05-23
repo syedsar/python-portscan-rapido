@@ -30,12 +30,14 @@
   
   ### python portScan.py -p 80 192.168.0.12
   
-  adding new line.
   Scan na porta 80 no IP "192.168.0.12"
   
   ## Implementações futuras
   
   Analisar os serviços que estão sendo executados nas portas (banner grabbing)
+  
+  
+  adding new line.
 
   
   
