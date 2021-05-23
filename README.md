@@ -29,6 +29,8 @@
   Scan nas portas 21,22 e 80 no site "site.com"
   
   ### python portScan.py -p 80 192.168.0.12
+  
+  adding new line.
   Scan na porta 80 no IP "192.168.0.12"
   
   ## Implementações futuras
